@@ -1,0 +1,17 @@
+body {
+	background-color: beige;
+}
+
+a {
+	color: coral;
+	text-align: center;
+	border: solid 2px;
+	display: inline-block;
+	width: 30%;
+	background-color: ;
+	border-radius: 10px;
+}
+
+.linksDiv {
+	text-align: center;
+}
