@@ -1,0 +1,55 @@
+body {
+	background-color: beige;
+	text-align: center;
+}
+
+p {
+	border: ;
+	margin: 37% 20% 0 20%;
+	font-family: impact;
+}
+
+button {
+	background-color: beige;
+	border-radius: 10px;
+	font-style: italic;
+}
+
+select {
+	background-color: beige;
+	font-weight: bold;
+}
+
+label {
+	font-size: 12px;
+}
+
+option {
+	font-style: italic;
+}
+
+.borderRepulse {
+	margin: 5px;
+}
+
+.carre {
+	display: inline-block;
+	width: 50%;
+	height: px;
+	background-color: white;
+	border-radius: 20px;
+	border: 3px black solid;
+	text-align: center;
+}
+
+.carree2 {
+	display: inline-block;
+	width: 75px;
+	height: 75px;
+	margin: 30px;
+	background: linear-gradient(to bottom, orange, white);
+	border-radius: 50%;
+	border: 3px black solid;
+	text-align: center;
+	padding: 0px;
+}

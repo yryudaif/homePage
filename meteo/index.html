@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset='UTF-8'>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="./style.css"/>
+		<title>meteo</title>
+	</head>
+	<body>
+		<div class="carre">
+			<label for="choice">Select your city :</label>
+			<select id="choice" class="borderRepulse" name="choice">
+				<option disabled selected>city</option>
+				<option>meknes</option>
+				<option>grenoble</option>
+			</select>
+			<button onclick="show()">show temperature</button>
+		</div><br>
+		<div class="carree2">
+			<p id="temperature"></p>
+		</div>
+		<script src="./script.js"></script>
+	</body>
+</html>
